@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo_CSVParser</string>
+    <string name="progress">%1$d/%2$d</string>
+</resources>
